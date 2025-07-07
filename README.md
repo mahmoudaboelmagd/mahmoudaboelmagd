@@ -8,7 +8,8 @@
 - 🧠 7+ years of experience in mobile development  
 - 📱 Specializing in Android Native & React Native  
 - 🚀 Passionate about scalable apps, clean architecture, and CI/CD  
-- 🔄 Open to collaboration on impactful mobile projects  
+- 🔄 Open to collaboration on impactful mobile projects
+- 📆 1,246 contributions in the last year
 
 ---
 
@@ -34,14 +35,6 @@ Tools: Android Studio, VS Code, Git, Postman, Figma
 Other: Push Notifications, Google Maps SDK, Payment SDKs 
 
 
-📆 1,246 contributions in the last year
-
-
----
-
-### 📊 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudaboelmagd&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -51,4 +44,4 @@ Other: Push Notifications, Google Maps SDK, Payment SDKs
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<h4 align="center">“Code is like humor. When you have to explain it, it’s bad.” – Cory House</h4>
