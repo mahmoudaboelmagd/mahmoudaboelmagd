@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Aboelmagd</h1>
-<h3 align="center">Senior Mobile Developer | Android & React Native</h3>
+<h3 align="center">Senior Mobile Developer | React Native & Android</h3>
 
 ---
 
