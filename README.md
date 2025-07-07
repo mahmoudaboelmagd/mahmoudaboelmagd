@@ -14,22 +14,28 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Kotlin, Java, JavaScript  
-- **Frameworks**: React Native, Jetpack Compose, XML, Mobx  
-- **Tools**: Git, GitHub Actions, EAS,   
-- **Database**: Room, SQLite,  
+Skills & Tools
+Languages: JavaScript, TypeScript, Kotlin, Java
+
+Frameworks: React Native, Android SDK, Expo
+
+Architecture: Clean Architecture, MVVM, OOP, SOLID
+
+State Management: MobX, Context API
+
+Networking & Data: REST APIs, React Query, SQLite, Room
+
+CI/CD: App Center, GitHub Actions, Expo
+
+Testing: Jest, JUnit
+
+Tools: Android Studio, VS Code, Git, Postman, Figma
+
+Other: Push Notifications, Google Maps SDK, Payment SDKs 
 
 
-![GitHub Contributions](https://komarev.com/ghpvc/?username=mahmoudaboelmagd&label=Total%20Contributions&color=brightgreen)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudaboelmagd&theme=github-compact)
+📆 1,246 contributions in the last year
 
----
-
-### 📈 GitHub Stats
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudaboelmagd&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudaboelmagd&layout=compact&theme=radical)
 
 ---
 
