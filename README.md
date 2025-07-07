@@ -36,12 +36,13 @@ Other: Push Notifications, Google Maps SDK, Payment SDKs
 
 ---
 
-Projects
+### Projects
+
 Ta3lemona Parent (React Native) – Live school tracking and notifications for parents
 
-Ta3lom (React Native + Android) – Educational app with subscription content
+Ta3lom (React Native ) – Educational app with subscription content
 
-Top Qudrat (React Native) – Learning platform with mock tests and gamification
+Top Qudrat (React Native ) – Learning platform with mock tests and gamification
 
 Hajat Elbayt (Android) – E-commerce app built with native Android tech stack
 
