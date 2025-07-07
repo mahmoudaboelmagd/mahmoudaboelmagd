@@ -20,6 +20,9 @@
 - **Database**: Room, SQLite,  
 
 
+![GitHub Contributions](https://komarev.com/ghpvc/?username=mahmoudaboelmagd&label=Total%20Contributions&color=brightgreen)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudaboelmagd&theme=github-compact)
+
 ---
 
 ### 📈 GitHub Stats
