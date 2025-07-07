@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mahmoud Aboelmagd</h1>
 <h3 align="center">Senior Mobile Developer | Android & React Native</h3>
 
@@ -15,11 +14,16 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Kotlin, Java, TypeScript, JavaScript  
-- **Frameworks**: React Native, Jetpack Compose, XML, Redux  
-- **Backend**: Firebase, REST APIs  
-- **Tools**: Git, GitHub Actions, EAS, Fastlane  
-- **Database**: Room, SQLite, Firestore  
+- **Languages**: Kotlin, Java, JavaScript  
+- **Frameworks**: React Native, Jetpack Compose, XML, Mobx  
+- **Tools**: Git, GitHub Actions, EAS,   
+- **Database**: Room, SQLite,  
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahmoudaboelmagd&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -28,6 +32,12 @@
 ![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudaboelmagd&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudaboelmagd&layout=compact&theme=radical)
+
+---
+
+### 📊 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudaboelmagd&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
