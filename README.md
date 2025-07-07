@@ -19,11 +19,6 @@
 - **Tools**: Git, GitHub Actions, EAS,   
 - **Database**: Room, SQLite,  
 
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahmoudaboelmagd&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -44,7 +39,6 @@
 ### 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoudaboelmagd/)
-- 📁 [GitHub Repos](https://github.com/mahmoudaboelmagd?tab=repositories)
 
 ---
 
