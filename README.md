@@ -9,7 +9,6 @@
 - 📱 Specializing in Android Native & React Native  
 - 🚀 Passionate about scalable apps, clean architecture, and CI/CD  
 - 🔄 Open to collaboration on impactful mobile projects
-- 📆 1,246 contributions in the last year
 
 ---
 
